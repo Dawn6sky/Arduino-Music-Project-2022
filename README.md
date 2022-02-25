@@ -1,2 +1,2 @@
-# Arduino HoloMusic Project
+# Arduino Music Box Project
  Music box project but with arduino
